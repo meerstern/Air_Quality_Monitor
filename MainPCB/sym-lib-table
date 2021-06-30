@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name micro-usb-zx62r-b-5p-con-hirose)(type Legacy)(uri ${KIPRJMOD}/micro-usb-zx62r-b-5p-con-hirose.lib)(options "")(descr ""))
+  (lib (name PL2303SA)(type Legacy)(uri ${KIPRJMOD}/PL2303SA.lib)(options "")(descr ""))
+  (lib (name LightSensor)(type Legacy)(uri ${KIPRJMOD}/LightSensor.lib)(options "")(descr ""))
+)

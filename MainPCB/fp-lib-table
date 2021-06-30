@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name GroveCon)(type KiCad)(uri ${KIPRJMOD}/GroveCon.pretty)(options "")(descr ""))
+  (lib (name mUSB)(type KiCad)(uri ${KIPRJMOD}/mUSB.pretty)(options "")(descr ""))
+  (lib (name SMD_PUSHSWITCH)(type KiCad)(uri ${KIPRJMOD}/SMD_PUSHSWITCH.pretty)(options "")(descr ""))
+  (lib (name LightSensor)(type KiCad)(uri ${KIPRJMOD}/LightSensor.pretty)(options "")(descr ""))
+)
