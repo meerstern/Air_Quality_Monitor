@@ -1,7 +1,8 @@
 # エアクオリティモニタ 
  Air Quality Monitor with ZMOD4410 & HS3001
 
-  <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img1.jpg" width="360"> 
+  <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img1.jpg" width="360">
+  ※ 写真は使用イメージです リップスティック、USBケーブル等は含まれません  
 
  ## 概要 
   * ルネサスエレクトロニクス製 [室内空気質（IAQ）センサZMOD4410][1]及び[温湿度センサHS3001][2]を搭載したエアクオリティモニタです 
