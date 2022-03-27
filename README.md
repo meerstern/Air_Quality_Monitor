@@ -1,11 +1,13 @@
 # エアクオリティモニタ 
  Air Quality Monitor with ZMOD4410 & HS3001
 
+  <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img1.jpg" width="360"> 
+
  ## 概要 
   * ルネサスエレクトロニクス製 [室内空気質（IAQ）センサZMOD4410][1]及び[温湿度センサHS3001][2]を搭載したエアクオリティモニタです 
-  * CO2値、IAQ(屋内空気質基準)、温度、湿度を表示することができます  
+  * スティック状の小型な本体にCO2値、IAQ(屋内空気質基準)、温度、湿度を表示することができます  
   * 電源はmicroUSBを介してUSB電源で駆動します  
-  * CO2計算アルゴリズムはメーカ提供の学習済みニューラルネットワークを使用したファームウェア(20/10/19リリース版)を使用しています  
+  * CO2計算アルゴリズムはメーカ提供の学習済みニューラルネットワークを使用したファームウェアを使用しています  
   * 学習済みニューラルネットワークによって従来よりもより正確にCO2値（eCO2）を推定できます  
   * 専用変換基板のLEDでIAQ(屋内空気質基準IAQ:2以下 青、2-3:青、黄、3-4:黄、4-5:黄、赤、5以上:赤)を確認できます 
   * 過去10時間の推移をグラフで簡易的に確認することができます  
@@ -29,7 +31,10 @@
 |  3~4  |  中間  |  黄  |
 |  4~5  |  悪い  |  黄と赤  |
 |  5~  |  非常に悪い | 赤 |
-        
+    
+  <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img2.jpg" width="360"> 
+
+  <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img3.jpg" width="360"> 
 
 ## 注意 
  * 本センサはMOX(Metal Oxide)式のCO2センサのため、空気中の有機物から間接的にCO2に換算します。厳密なCO2計測には向きません  
