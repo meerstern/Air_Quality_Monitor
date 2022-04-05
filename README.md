@@ -38,8 +38,11 @@
   <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img3.jpg" width="360"> 
   
 ## 各部説明 
-
+　
   <img src="https://github.com/meerstern/Air_Quality_Monitor/blob/main/IMG/img5.jpg" width="560"> 
+  　
+## サイズ
+　幅7.5cm × 高さ2cm × 奥行 1.5cm (突起部除く)
 
 ## 注意 
  * 本センサはMOX(Metal Oxide)式のCO2センサのため、空気中の有機物から間接的にCO2に換算します  
